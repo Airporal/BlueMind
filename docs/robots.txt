@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://airporal.github.io/sitemap.xml
