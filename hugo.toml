@@ -52,9 +52,6 @@ recent_posts_number = 9
 [services.disqus]
   shortname = 'YOURSHORTNAME'
 
-[params]
-  commentoEnable = true
-
 [params.ananke.social.share]
 networks = [
   "email",
