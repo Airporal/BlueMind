@@ -1,4 +1,4 @@
-baseURL = 'https://airporal.github.io/BlueMind/'
+baseURL = 'https://bluemind.us.kg/'
 languageCode = 'en-us'
 title = 'BlueMind'
 theme = "ananke"
@@ -25,9 +25,9 @@ title = "Ananke"
 
 [languages.fr]
 contentDir = "content/fr"
-languageCode = 'fr-FR'
+languageCode = 'zh-cn'
 weight = 2
-title = "Ananke Fr"
+title = "Ananke ZH-CN"
 
 [sitemap]
 changefreq = "monthly"
